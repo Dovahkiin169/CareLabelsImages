@@ -1,7 +1,7 @@
 <annotation>
-	<folder>CareLabelsInna2</folder>
-	<filename>IMG_6648.JPG</filename>
-	<path>/Users/dmitriyverhovskiy/Downloads/CareLabels/CareLabelsInna2/IMG_6648.JPG</path>
+	<folder>train</folder>
+	<filename>IMG_6648.jpg</filename>
+	<path>/Users/dmitriyverhovskiy/Downloads/AndroidProjectsGit/CareLabelsImages/images/train/IMG_6648.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

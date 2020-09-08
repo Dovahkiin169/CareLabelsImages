@@ -1,13 +1,13 @@
 <annotation>
-	<folder>CareLabelsInna</folder>
-	<filename>IMG_4594.HEIC</filename>
-	<path>/Users/dmitriyverhovskiy/Downloads/CareLabels/CareLabelsInna/IMG_4594.HEIC</path>
+	<folder>train</folder>
+	<filename>IMG_4594.jpg</filename>
+	<path>/Users/dmitriyverhovskiy/Downloads/AndroidProjectsGit/CareLabelsImages/images/train/IMG_4594.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3024</width>
-		<height>4032</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
