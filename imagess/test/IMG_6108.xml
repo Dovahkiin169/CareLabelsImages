@@ -1,13 +1,13 @@
 <annotation>
 	<folder>test</folder>
-	<filename>IMG_6108.jpg</filename>
-	<path>/Users/dmitriyverhovskiy/Downloads/AndroidProjectsGit/CareLabelsImages/images/test/IMG_6108.jpg</path>
+	<filename>IMG_6108.HEIC</filename>
+	<path>/Users/dmitriyverhovskiy/Downloads/AndroidProjectsGit/CareLabelsImages/imagess/test/IMG_6108.HEIC</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>3024</width>
+		<height>4032</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>

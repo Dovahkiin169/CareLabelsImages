@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>2020-09-07 19.07.35.jpg</filename>
-	<path>/Users/dmitriyverhovskiy/Downloads/AndroidProjectsGit/CareLabelsImages/images/train/2020-09-07 19.07.35.jpg</path>
+	<filename>2020-09-07 19.07.35.HEIC</filename>
+	<path>/Users/dmitriyverhovskiy/Downloads/AndroidProjectsGit/CareLabelsImages/imagess/train/2020-09-07 19.07.35.HEIC</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>571</xmin>
-			<ymin>761</ymin>
+			<ymin>762</ymin>
 			<xmax>660</xmax>
-			<ymax>819</ymax>
+			<ymax>820</ymax>
 		</bndbox>
 	</object>
 </annotation>
